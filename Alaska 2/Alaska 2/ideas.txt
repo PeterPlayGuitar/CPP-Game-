@@ -1,0 +1,8 @@
+create apples, appearing randomly on a map
+create tree axing
+create screan rotating
+create screan scaling
+create inventory
+create home building
+create updating map with changing something on it
+create different stuff on map, like rocks and water

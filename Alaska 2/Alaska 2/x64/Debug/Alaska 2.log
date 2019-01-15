@@ -1,0 +1,13 @@
+﻿Alaska2.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInit в функции main
+Alaska2.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInitDisplayMode в функции "void __cdecl makingGlut(void)" (?makingGlut@@YAXXZ)
+Alaska2.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInitWindowPosition в функции "void __cdecl makingGlut(void)" (?makingGlut@@YAXXZ)
+Alaska2.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInitWindowSize в функции "void __cdecl makingGlut(void)" (?makingGlut@@YAXXZ)
+Alaska2.obj : error LNK2019: ссылка на неразрешенный внешний символ glutMainLoop в функции "void __cdecl makingGlut(void)" (?makingGlut@@YAXXZ)
+Alaska2.obj : error LNK2019: ссылка на неразрешенный внешний символ glutCreateWindow в функции "void __cdecl makingGlut(void)" (?makingGlut@@YAXXZ)
+Alaska2.obj : error LNK2019: ссылка на неразрешенный внешний символ glutPostRedisplay в функции "void __cdecl TimerFunction(int)" (?TimerFunction@@YAXH@Z)
+Alaska2.obj : error LNK2019: ссылка на неразрешенный внешний символ glutSwapBuffers в функции "void __cdecl Display(void)" (?Display@@YAXXZ)
+Alaska2.obj : error LNK2019: ссылка на неразрешенный внешний символ glutDisplayFunc в функции "void __cdecl makingGlut(void)" (?makingGlut@@YAXXZ)
+Alaska2.obj : error LNK2019: ссылка на неразрешенный внешний символ glutTimerFunc в функции "void __cdecl TimerFunction(int)" (?TimerFunction@@YAXH@Z)
+Alaska2.obj : error LNK2019: ссылка на неразрешенный внешний символ glutSpecialUpFunc в функции "void __cdecl makingGlut(void)" (?makingGlut@@YAXXZ)
+glut32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+D:\Downloads\Alaska 2\Alaska 2\x64\Debug\Alaska 2.exe : fatal error LNK1120: неразрешенных внешних элементов: 11
